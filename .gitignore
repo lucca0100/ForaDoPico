@@ -1,0 +1,10 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Indice vetorial (regeneravel com ingest.py - nao versionar)
+chroma_db/
+
+# Config local
+.env

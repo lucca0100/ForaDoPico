@@ -1,0 +1,23 @@
+[
+  {
+    "config": "sem_contexto",
+    "resposta_correta": 0.0,
+    "exato_correto": 0.0,
+    "recusa_correta": 0.4,
+    "acuracia": 0.06896551724137931
+  },
+  {
+    "config": "rag_simples",
+    "resposta_correta": 0.6666666666666666,
+    "exato_correto": 0.0,
+    "recusa_correta": 1.0,
+    "acuracia": 0.7241379310344828
+  },
+  {
+    "config": "agente",
+    "resposta_correta": 0.9583333333333334,
+    "exato_correto": 0.875,
+    "recusa_correta": 1.0,
+    "acuracia": 0.9655172413793104
+  }
+]

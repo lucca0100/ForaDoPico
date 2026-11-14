@@ -1,0 +1,263 @@
+[
+  {
+    "id": "q001",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Corinthians-Itaquera na Terça?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-corinthians-itaquera-terca-l3",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q002",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Corinthians-Itaquera na Terça?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-corinthians-itaquera-terca-l3",
+    "valor_esperado": "22:15",
+    "resposta_esperada": "Melhor entrada as 22:15 (Vazio)."
+  },
+  {
+    "id": "q003",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Corinthians-Itaquera na Terça as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-corinthians-itaquera-terca-l3",
+    "valor_esperado": "1926",
+    "resposta_esperada": "1926 entradas previstas as 18:00."
+  },
+  {
+    "id": "q004",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em República na Segunda?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-republica-segunda-l3",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q005",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em República na Segunda?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-republica-segunda-l3",
+    "valor_esperado": "21:45",
+    "resposta_esperada": "Melhor entrada as 21:45 (Vazio)."
+  },
+  {
+    "id": "q006",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em República na Segunda as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-republica-segunda-l3",
+    "valor_esperado": "3306",
+    "resposta_esperada": "3306 entradas previstas as 18:00."
+  },
+  {
+    "id": "q007",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Brás na Sexta?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-bras-sexta-l3",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q008",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Brás na Sexta?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-bras-sexta-l3",
+    "valor_esperado": "22:45",
+    "resposta_esperada": "Melhor entrada as 22:45 (Vazio)."
+  },
+  {
+    "id": "q009",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Brás na Sexta as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-bras-sexta-l3",
+    "valor_esperado": "1977",
+    "resposta_esperada": "1977 entradas previstas as 18:00."
+  },
+  {
+    "id": "q010",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Ana Rosa na Quarta?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-ana-rosa-quarta-l1",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q011",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Ana Rosa na Quarta?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-ana-rosa-quarta-l1",
+    "valor_esperado": "22:30",
+    "resposta_esperada": "Melhor entrada as 22:30 (Vazio)."
+  },
+  {
+    "id": "q012",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Ana Rosa na Quarta as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-ana-rosa-quarta-l1",
+    "valor_esperado": "624",
+    "resposta_esperada": "624 entradas previstas as 18:00."
+  },
+  {
+    "id": "q013",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Tatuapé na Quinta?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-tatuape-quinta-l3",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q014",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Tatuapé na Quinta?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-tatuape-quinta-l3",
+    "valor_esperado": "23:00",
+    "resposta_esperada": "Melhor entrada as 23:00 (Vazio)."
+  },
+  {
+    "id": "q015",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Tatuapé na Quinta as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-tatuape-quinta-l3",
+    "valor_esperado": "2075",
+    "resposta_esperada": "2075 entradas previstas as 18:00."
+  },
+  {
+    "id": "q016",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Belém na Terça?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-belem-terca-l3",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q017",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Belém na Terça?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-belem-terca-l3",
+    "valor_esperado": "23:45",
+    "resposta_esperada": "Melhor entrada as 23:45 (Vazio)."
+  },
+  {
+    "id": "q018",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Belém na Terça as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-belem-terca-l3",
+    "valor_esperado": "1082",
+    "resposta_esperada": "1082 entradas previstas as 18:00."
+  },
+  {
+    "id": "q019",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Artur Alvim na Sábado?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-artur-alvim-sabado-l3",
+    "valor_esperado": "11:30",
+    "resposta_esperada": "Pico as 11:30 (Vazio)."
+  },
+  {
+    "id": "q020",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Artur Alvim na Sábado?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-artur-alvim-sabado-l3",
+    "valor_esperado": "23:45",
+    "resposta_esperada": "Melhor entrada as 23:45 (Vazio)."
+  },
+  {
+    "id": "q021",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Artur Alvim na Sábado as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-artur-alvim-sabado-l3",
+    "valor_esperado": "492",
+    "resposta_esperada": "492 entradas previstas as 18:00."
+  },
+  {
+    "id": "q022",
+    "tipo": "pico",
+    "pergunta": "Qual o horario de pico em Carandiru na Segunda?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-carandiru-segunda-l1",
+    "valor_esperado": "07:00",
+    "resposta_esperada": "Pico as 07:00 (Crítico)."
+  },
+  {
+    "id": "q023",
+    "tipo": "melhor_horario",
+    "pergunta": "Qual o melhor horario para entrar em Carandiru na Segunda?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-carandiru-segunda-l1",
+    "valor_esperado": "22:30",
+    "resposta_esperada": "Melhor entrada as 22:30 (Vazio)."
+  },
+  {
+    "id": "q024",
+    "tipo": "numero_exato",
+    "pergunta": "Quantas pessoas entram em Carandiru na Segunda as 18:00?",
+    "status_esperado": "ok",
+    "fonte_esperada": "lot-carandiru-segunda-l1",
+    "valor_esperado": "319",
+    "resposta_esperada": "319 entradas previstas as 18:00."
+  },
+  {
+    "id": "q025",
+    "tipo": "fora_de_escopo",
+    "pergunta": "Qual a lotacao da estacao Paulista na Linha 4-Amarela?",
+    "status_esperado": "nao_consta",
+    "fonte_esperada": null,
+    "valor_esperado": null,
+    "resposta_esperada": "Nao consta (fora da cobertura: Linhas 1 e 3, jan-set/2026)."
+  },
+  {
+    "id": "q026",
+    "tipo": "fora_de_escopo",
+    "pergunta": "Como esta a lotacao na CPTM Linha 9-Esmeralda?",
+    "status_esperado": "nao_consta",
+    "fonte_esperada": null,
+    "valor_esperado": null,
+    "resposta_esperada": "Nao consta (fora da cobertura: Linhas 1 e 3, jan-set/2026)."
+  },
+  {
+    "id": "q027",
+    "tipo": "fora_de_escopo",
+    "pergunta": "Qual era o horario de pico da Se em 2025?",
+    "status_esperado": "nao_consta",
+    "fonte_esperada": null,
+    "valor_esperado": null,
+    "resposta_esperada": "Nao consta (fora da cobertura: Linhas 1 e 3, jan-set/2026)."
+  },
+  {
+    "id": "q028",
+    "tipo": "fora_de_escopo",
+    "pergunta": "Qual a estacao mais bonita do metro?",
+    "status_esperado": "nao_consta",
+    "fonte_esperada": null,
+    "valor_esperado": null,
+    "resposta_esperada": "Nao consta (fora da cobertura: Linhas 1 e 3, jan-set/2026)."
+  },
+  {
+    "id": "q029",
+    "tipo": "fora_de_escopo",
+    "pergunta": "Como esta o metro de Campinas hoje?",
+    "status_esperado": "nao_consta",
+    "fonte_esperada": null,
+    "valor_esperado": null,
+    "resposta_esperada": "Nao consta (fora da cobertura: Linhas 1 e 3, jan-set/2026)."
+  }
+]
