@@ -6,6 +6,8 @@ melhor horário** das Linhas 1-Azul e 3-Vermelha do Metrô-SP, citando a fonte e
 recusando o que está fora da cobertura. Os dados vêm da view `vw_app_lotacao_prevista`
 (camada Ouro) — a mesma tabela que o app usa.
 
+**Repositório:** https://github.com/lucca0100/ForaDoPico
+
 ## Integrantes
 - Victor Wittner — 98667
 - Matheus Haruo — 97663

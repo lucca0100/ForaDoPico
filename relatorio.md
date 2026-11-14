@@ -15,7 +15,7 @@
 - **Arquitetura:** embeddings `bge-m3` → ChromaDB → geração com `llama3.1:8b`, mais a ferramenta `consultar_lotacao` para números exatos; exposto por API FastAPI.
 - **Fonte de dados:** view `vw_app_lotacao_prevista` (camada Ouro do Databricks), derivada do total diário de entradas por estação publicado pelo Metrô (jan–set/2026).
 - **Modelos de IA:** `llama3.1:8b` e `bge-m3`, locais via Ollama.
-- **URL do MVP e repositório:** _preencher com os links públicos._
+- **Repositório:** https://github.com/lucca0100/ForaDoPico (URL do MVP/app: a preencher)
 - **Indicadores de impacto:** acurácia do assistente e taxa de recusa correta (seção 5).
 - **LGPD:** dado agregado por estação, sem dado pessoal.
 - **ODS conectados:** 11 (cidades sustentáveis), 9 (infraestrutura/inovação), 3 (saúde e bem-estar), 10 (redução das desigualdades).
@@ -87,4 +87,4 @@ sobre o baseline e do agente sobre o RAG simples. A integração com o produto �
 API `POST /perguntar`, que devolve `{resposta, fontes, recusou}` — o contrato consumido
 pelo app, usando a mesma tabela Ouro.
 
-**Link do repo não esquece anta:** 
+**Links:** Repositório: https://github.com/lucca0100/ForaDoPico · Vídeo e URL do MVP: Não esquece de preencher mula
